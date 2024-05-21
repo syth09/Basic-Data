@@ -1,0 +1,15 @@
+c:\Users\admin\Desktop\Basic Data\C# Journey\Excercise\lab3\Math\bin\Debug\net5.0\Math.exe
+c:\Users\admin\Desktop\Basic Data\C# Journey\Excercise\lab3\Math\bin\Debug\net5.0\Math.deps.json
+c:\Users\admin\Desktop\Basic Data\C# Journey\Excercise\lab3\Math\bin\Debug\net5.0\Math.runtimeconfig.json
+c:\Users\admin\Desktop\Basic Data\C# Journey\Excercise\lab3\Math\bin\Debug\net5.0\Math.runtimeconfig.dev.json
+c:\Users\admin\Desktop\Basic Data\C# Journey\Excercise\lab3\Math\bin\Debug\net5.0\Math.dll
+c:\Users\admin\Desktop\Basic Data\C# Journey\Excercise\lab3\Math\bin\Debug\net5.0\Math.pdb
+c:\Users\admin\Desktop\Basic Data\C# Journey\Excercise\lab3\Math\obj\Debug\net5.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\admin\Desktop\Basic Data\C# Journey\Excercise\lab3\Math\obj\Debug\net5.0\Math.AssemblyInfoInputs.cache
+c:\Users\admin\Desktop\Basic Data\C# Journey\Excercise\lab3\Math\obj\Debug\net5.0\Math.AssemblyInfo.cs
+c:\Users\admin\Desktop\Basic Data\C# Journey\Excercise\lab3\Math\obj\Debug\net5.0\Math.csproj.CoreCompileInputs.cache
+c:\Users\admin\Desktop\Basic Data\C# Journey\Excercise\lab3\Math\obj\Debug\net5.0\Math.dll
+c:\Users\admin\Desktop\Basic Data\C# Journey\Excercise\lab3\Math\obj\Debug\net5.0\refint\Math.dll
+c:\Users\admin\Desktop\Basic Data\C# Journey\Excercise\lab3\Math\obj\Debug\net5.0\Math.pdb
+c:\Users\admin\Desktop\Basic Data\C# Journey\Excercise\lab3\Math\obj\Debug\net5.0\Math.genruntimeconfig.cache
+c:\Users\admin\Desktop\Basic Data\C# Journey\Excercise\lab3\Math\obj\Debug\net5.0\ref\Math.dll
